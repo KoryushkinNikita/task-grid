@@ -9,8 +9,8 @@ body,
   display: grid;
   width: 700px;
   height:  400px;
-  grid-template-rows: 100px 200px 100px;
-  grid-template-columns: 350px 350px;
+  grid-template-rows: 90px 200px 90px;
+  grid-template-columns: 340px 340px;
   column-gap: 20px;
   row-gap: 20px;
   /*grid-row-start: 2;
